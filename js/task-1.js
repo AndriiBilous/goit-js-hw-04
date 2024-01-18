@@ -1,3 +1,5 @@
+"use strict";
+
 function isEnoughCapacity(products, containerSize) {
   //1) Перетворити обʼєкт на масив;
   const arrays = Object.values(products);
